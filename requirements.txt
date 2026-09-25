@@ -1,0 +1,4 @@
+aiogram>=3.4
+deep-translator
+python-dotenv
+google-genai
